@@ -21,7 +21,7 @@ My portfolio is designed to provide an overview of my background, expertise, and
 ## How to Use
 
 1. **Clone the Repository:**
-- git clone
+- git clone https://github.com/Suyash0028/my_portfolio.git
   
 2. **Install Dependencies:**
 - npm install
