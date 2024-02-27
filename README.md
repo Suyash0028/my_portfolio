@@ -21,16 +21,16 @@ My portfolio is designed to provide an overview of my background, expertise, and
 ## How to Use
 
 1. **Clone the Repository:**
-- git clone https://github.com/Suyash0028/my_portfolio.git
+  - git clone https://github.com/Suyash0028/my_portfolio.git
   
 2. **Install Dependencies:**
-- npm install
+  - npm install
   
 3. **Run the Application:**
-- npm start
+  - npm start
   
 4. **View the Portfolio:**
-- Open your browser and navigate to `http://localhost:3000`.
+  - Open your browser and navigate to `http://localhost:3000`.
 
 ## Additional Information
 
