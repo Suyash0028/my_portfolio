@@ -15,7 +15,7 @@ My portfolio is designed to provide an overview of my background, expertise, and
 ## Technologies Used
 
 - Frontend: React.js, HTML, CSS
-- Backend: (If applicable, mention any backend technologies or APIs used)
+- Backend: 
 - Other: (Any additional libraries, frameworks, or tools)
 
 ## How to Use
